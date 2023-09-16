@@ -1,3 +1,4 @@
+-- List all tables from a database
 SELECT name FROM sys.tables;
 
 -- List all database tables and some additional features
